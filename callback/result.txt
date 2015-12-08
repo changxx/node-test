@@ -1,0 +1,9 @@
+changxxdeMacBook-Pro:node-test changxx$ node block.js 
+text content
+
+程序执行结束!
+changxxdeMacBook-Pro:node-test changxx$ node no-block.js 
+程序执行结束!
+text content
+
+
